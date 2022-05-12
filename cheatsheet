@@ -1,0 +1,10 @@
+git clone
+ creates local copy of git repository
+git add
+ prime your files to be added  to the local repository for the commit command
+git status
+ show the primed files and their status
+git commit
+ add the primed files from git add to your local repository
+git push
+add the commited files in the local git repository into the remote repository
