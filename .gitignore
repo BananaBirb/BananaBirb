@@ -1,0 +1,6 @@
+#ignore pdf files
+*.pdf
+# ignore temp files
+/tmp/*
+# except for temp conofig
+!/tmp/temp.config
