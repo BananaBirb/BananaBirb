@@ -10,3 +10,5 @@
 - add the commited files in the local git repository into the remote repository
 ### git mv
 - move or rename a file in the git repository
+### git status
+- show the primed files and their 
