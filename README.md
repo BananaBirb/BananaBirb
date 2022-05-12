@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BananaBirb,
 
-I am a former Biologist (Background mainly in Developmental and Stem Cell Biology, no Ph.D.) who had a brief intermission in publishing beforer finally deciding to do
+I am a former Biologist (Background mainly in Developmental and Stem Cell Biology, no Ph.D.) who had a brief intermission in publishing before finally deciding to do
 something something with computers. 
 
 Interested in -Omics analysis, databanks, organization, basically everything where numbers, management and structure of some sort is involved. 
@@ -8,17 +8,14 @@ Interested in -Omics analysis, databanks, organization, basically everything whe
 Currently learning all the tools like Python, the Shell, SQL, R, statistics and so on, since I have no formal statistics or informatics background. 
 
 
-I was always fond of computers and tinkering with them. Whether in mapping editors or modding games at a a young age, building my own pc, trying to automate plant watering at home
-or building things in a Co-Making Space.
+I was always fond of computers and tinkering with them. Whether in mapping editors or modding games at a a young age, building my own pc, trying to automate plant watering at home or building things in a Co-Making Space.
 
-I am looking to collaborate on anything that is even remotely interesting to me, which includes but is not limited to: vector design, immunology, stem cell biology, 3D-Printing in Biology,
-developmental/gamete biology, ngs or -omics analyses
+I am looking to collaborate on anything that is even remotely interesting to me, which includes but is not limited to: vector design, immunology, stem cell biology, 3D-Printing in Biology, developmental/gamete biology, ngs or -omics analyses
 
 You can reach me here or alternatively via
 alexander.santel@gmail.com
 
 If we know each other better you might get other options of contact like mobile number, socials, etc. 
-
 
 Bye and take care,
 
@@ -29,6 +26,8 @@ pretty boring (Lex264somenumber and so on), for some reason I chose this for git
 
 
 Be (maybe) seeing you!
+
+Alex
 
 <!---
 BananaBirb/BananaBirb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
