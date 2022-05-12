@@ -24,6 +24,8 @@ but a Toco Toucan is also pretty cool. Its beak looks like a Banana and I used t
 program for some time. One of the commenters dubbed the Toucan a "BananaBirb" in true internet l33t speak. I found that name pretty funny and since all my other aliases online are
 pretty boring (Lex264somenumber and so on), for some reason I chose this for github. So there you go. 
 
+this repository for now is just for practicing work with git, if I have some serious projects going on, look for some other repositories. 
+
 
 Be (maybe) seeing you!
 
