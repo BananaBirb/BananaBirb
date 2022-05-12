@@ -1,3 +1,5 @@
+#git cheatsheet commands
+## Basic commands
 git clone
  creates local copy of git repository
 git add
