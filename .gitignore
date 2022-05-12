@@ -1,4 +1,5 @@
-#ignore pdf files
+#ignore pdf files and txt files
+*.txt
 *.pdf
 # ignore temp files
 /tmp/*
