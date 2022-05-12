@@ -1,3 +1,8 @@
+---
+geometry: margin=25mm
+colorlinks: true
+---
+
 # Basic git commands
 ## Basic commands
 ### git clone 
